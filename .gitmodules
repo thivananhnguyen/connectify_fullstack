@@ -1,0 +1,6 @@
+[submodule "connectify_frontend"]
+	path = connectify_frontend
+	url = https://github.com/thivananhnguyen/connectify_frontend.git
+[submodule "connectify_backend"]
+	path = connectify_backend
+	url = https://github.com/thivananhnguyen/connectify_backend.git
